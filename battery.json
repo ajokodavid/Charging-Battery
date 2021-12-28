@@ -1,0 +1,10 @@
+[
+    {
+    "Name" : "Battery App",
+    "Version" : "1.0",
+    "Description" : "A simple battery app that shows the battery level",
+    "Creator" : "David",
+    "Programming languages" : ["Bootstrap 5", "Html 5", "Javascript", "CSS 3"]
+}
+
+]
